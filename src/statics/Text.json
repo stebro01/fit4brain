@@ -1,0 +1,106 @@
+{
+  "title": "Willkommen",
+  "index": {
+    "btn_select": "zur Fragebogenauswahl",
+    "btn_preset": "zu den Presets",
+    "text_select": "direkt einen Fragebogen auswählen und starten",
+    "text_preset": "eine vordefinierte Sammlung von verschiedenen Fragebögen aufrufen"
+  },
+  "quest": {
+    "label": "Fragebogen",
+    "pid": "PID",
+    "pid_hint": "bitte PID eingeben",
+    "check_failed": "Der Fragebogen ist noch nicht komplett! ",
+    "PID_missing": "PID fehlt ",
+    "please_complete": "bitte vervollständigen ",
+    "check_passed": "Fragebogen ist gültig ",
+    "export_success": "Speichern erfolgreich",
+    "export_failed": "Speichern fehlgeschlagen",
+    "not_found": "Fragebogen nicht vorhanden",
+    "presets": "Folgende Fragebögen werden ausgeführt",
+    "save_preset": "Preset speichern",
+    "finished": "Herzlichen Dank, daß Sie alle Frage beantwortet haben!",
+    "save_success": "erfolgreich gespeichert"
+  },
+  "btn": {
+    "toquest": "zum Fragebogen",
+    "back": "zurück",
+    "submit": "speichern",
+    "reset": "zurücksetzen",
+    "yes": "Ja",
+    "no": "Nein",
+    "proceed": "weiter zum nächsten Fragebogen",
+    "dialog_chancel": "Wollen Sie wirklich abbrechen? (Form wird nicht gespeichert!,)",
+    "make_preset": "Preset erstellen",
+    "make_preset_protected": "geschütztes Preset erstellen",
+    "preset_save": "Preset lokal speichern",
+    "start_preset": "Fragebögen beginnen",
+    "finished": "weiter",
+    "select_all": "alles auswählen",
+    "deselect": "alles abwählen",
+    "delete": "löschen",
+    "open": "Eintrag öffnen",
+    "export": "Eintrag exportieren",
+    "export_cloud": "Eintrag nach Notion",
+    "preset_start": "Preset starten",
+    "confirm_start": "Wirlich starten?",
+    "confirm_delete": "Wirklich löschen?",
+    "selection_export": "Auswahl exportieren",
+    "selection_delete": "Auswahl löschen"
+  },
+  "storage": {
+    "no_entry": "Keine gespeicherten Fragebögen vorhanden",
+    "export_open": "export offen",
+    "export_finished": "✔",
+    "use_notion": "Notion verwenden",
+    "settings": "Einstellungen",
+    "export_email": "Export-Email"
+  },
+  "essentialLinks": [{
+      "title": "Start",
+      "caption": "Herzlich Willkommen ",
+      "icon": "home",
+      "link": "/",
+      "name": "start"
+
+    },
+    {
+      "title": "Fragebogenauswahl",
+      "caption": "Hier gehts direkt zur Fragebogenauswahl",
+      "icon": "assignment",
+      "link": "select",
+      "name": "select"
+    },
+    {
+      "title": "Auswahl Presets",
+      "caption": "lokal gespeicherte Presets",
+      "icon": "archive",
+      "link": "store_preset",
+      "name": "store_preset"
+    },
+    {
+      "title": "Storage",
+      "caption": "gespeicherte Fragebögen",
+      "icon": "inventory_2",
+      "link": "storage",
+      "name": "storage"
+    },
+    {
+      "title": "separator"
+    },
+    {
+      "title": "Einstellungen",
+      "caption": "Schriftgröße etc.",
+      "icon": "settings",
+      "link": "settings",
+      "name": "settings"
+    },
+    {
+      "title": "Über diese App",
+      "caption": "Allgemeine Informationen und Disclaimer",
+      "icon": "info",
+      "link": "about",
+      "name": "about"
+    }
+  ]
+}

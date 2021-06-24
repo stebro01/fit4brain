@@ -1,6 +1,6 @@
 <template>
-    <div class="absolute-top-right q-mt-lg q-mr-lg z-top">
-            <q-btn  color="grey-7"  label="zurück" flat icon="close" data-cy="btn_options" @click="quitForm">
+    <div class="absolute-top-right q-mt-sm q-mr-sm z-top">
+            <q-btn  color="grey-7"  flat icon="close" data-cy="btn_options" @click="quitForm">
             
           </q-btn>
         </div>

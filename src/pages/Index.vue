@@ -1,14 +1,14 @@
 <template>
   <q-page data-cy="page_index">
 
-    <div class="column q-pa-xl" >
+    <div class="column items-center q-pa-xl" >
       
-      <div class="col-3 text-center" style="height: 300px">
+      <div class="col-3 gt-sm text-center" style="height: 300px; width: 100%">
         <q-img src="bg_index.jpg" style="max-width: 400px"></q-img>
       </div>
 
       <div class="col-1">
-        <q-card flat>
+        <q-card flat class="my-card">
           <q-card-section class="text-h1">
             Willkommen auf der offiziellen Fit4Brain Website
           </q-card-section>

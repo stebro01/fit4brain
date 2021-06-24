@@ -44,6 +44,9 @@ export default {
       code_false: false
     }
   },
+  mounted() {
+    if (this.$store.state.access_allowed === true) this.$router.push({name: "start"})
+  },
   components: {
     BACKBUTTON: () => import('src/components/BackButton')  
   },

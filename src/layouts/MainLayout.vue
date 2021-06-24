@@ -10,7 +10,6 @@
         <q-chip v-if="$store.state.access_allowed === true" class="bg-green-1" icon="check" label="angemeldet" clickable @click="$router.push({name:'Logout'})">
         </q-chip>
 
-
         <q-toolbar-title  class="text-center" @click="$router.push({name:'start'})" >
           <q-avatar>
               <q-icon  name="spa" />
@@ -31,7 +30,7 @@
         <div class="col">
           <q-img src="logo_ukj.png" style="height:60px; max-width: 150px"/>
         </div>
-        <div class="col">
+        <div class="col gt-xs">
           <q-img src="logo_uni.png" style="height:60px; max-width: 180px"/>
         </div>
         <div class="col">

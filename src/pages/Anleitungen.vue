@@ -24,9 +24,9 @@
 
      <div class="col">
        <div class="row q-pa-lg justify-around q-gutter-xl">
-          <q-btn rounded class="col my-btn-large" @click="$router.push({name: 'Anleitung_Aerob'}).catch(()=>{})">Aerobes Training</q-btn>
-          <q-btn rounded class="col my-btn-large" @click="$router.push({name: 'Anleitung_Yoga'}).catch(()=>{})">Yoga</q-btn>
-          <q-btn rounded class="col my-btn-large" @click="$router.push({name: 'Anleitung_Jonglieren'}).catch(()=>{})">Jonglieren</q-btn>
+          <q-btn rounded class=" my-btn-large" @click="$router.push({name: 'Anleitung_Aerob'}).catch(()=>{})">Aerobes Training</q-btn>
+          <q-btn rounded class=" my-btn-large" @click="$router.push({name: 'Anleitung_Yoga'}).catch(()=>{})">Yoga</q-btn>
+          <q-btn rounded class=" my-btn-large" @click="$router.push({name: 'Anleitung_Jonglieren'}).catch(()=>{})">Jonglieren</q-btn>
        </div>
      </div>
 

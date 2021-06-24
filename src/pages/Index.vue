@@ -1,26 +1,56 @@
 <template>
-  <q-page data-cy="page_index" class="flex flex-center" style="background-image: url('bg_index.jpg');">
+  <q-page data-cy="page_index">
 
-    <div class="column" >
-      <div class="col text-h1">
-        Willkommen auf der offiziellen Fit 4 Brain Website
+    <div class="column q-pa-xl" >
+      
+      <div class="col-3 text-center" style="height: 300px">
+        <q-img src="bg_index.jpg" style="max-width: 400px"></q-img>
       </div>
 
-      <div class="col text-h2">
-        Hier können Sie <br>
-        Ihren Interventionsplan im Auge behalten, 
-        <br>erledigte Trainingseinheiten abhaken und 
-        <br>bei Fragen Kontakt zu uns aufnehmen!
+      <div class="col-1">
+        <q-card flat>
+          <q-card-section class="text-h1">
+            Willkommen auf der offiziellen Fit4Brain Website
+          </q-card-section>
+          <q-card-section>
+            Hier finden Sie Ihren persönlichen Trainingsplan, Video- und Infomaterial zu den Übungen, sowie Informationen zu der Studie. Sollten Sie noch weitere Fragen haben erreichen Sie uns über die „Kontakt“-Schaltfläche unten auf der Seite.
+Und jetzt viel Spaß beim fit werden! 
+          </q-card-section>
+        </q-card>
+        
       </div>
 
-      <div class="col">
-        <q-btn flat class="bg-blue text-white" @click="$router.push({name:'overview'})">
-          los gehts
-          <q-icon class="q-ml-sm" name="play_circle_outline">
 
-          </q-icon>
-        </q-btn>
+
+
+      <div class="col-auto" style="width: 90vw">
+        <div class="q-pa-md row justify-around q-gutter-xl ">
+
+          <!-- TRAINPLAN -->
+          <q-card class="my-card" flat  @click="$router.push({name: 'Trainingsplan'}).catch(() => {})">
+            <q-img src="btn_train_plan.png" style="height:100%; width:100%">
+            </q-img>
+            
+          </q-card>
+
+          <!-- Instructions -->
+          <q-card class="my-card" flat @click="$router.push({name: 'Anleitungen'}).catch(() => {})">
+            <q-img src="btn_instructions.png" style="height:100%; width:100%">
+            </q-img>
+          </q-card>
+
+          <!-- ABOUT -->
+          <q-card class="my-card" flat @click="$router.push({name: 'about'}).catch(() => {})">
+            <q-img src="btn_about.png" style="height:100%; width:100%">
+            </q-img>
+          </q-card>
+
+
+
+        </div>
       </div>
+
+
 
 
 

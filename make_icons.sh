@@ -1,1 +1,1 @@
-icongenie generate -i ./public/icons/surveyBest_icon1024.png
+icongenie generate -i ./public/icons/icon_fit4brain.png

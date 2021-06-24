@@ -1,8 +1,8 @@
 {
-  "name": "surveybest",
+  "name": "fit4brain",
   "version": "0.0.1",
-  "description": "online Fragebogen nach HL7 Standard",
-  "productName": "surveyBEST",
+  "description": "fit4brain study",
+  "productName": "fit4brain",
   "author": "sb",
   "private": true,
   "scripts": {

@@ -1,14 +1,7 @@
 <template>
-    <div class="absolute-top-right q-mt-lg q-mr-lg">
-            <q-btn  color="grey-7" round flat icon="more_vert" data-cy="btn_options">
-            <q-menu cover auto-close>
-              <q-list>
-                <q-item  class="my-btn text-center" data-cy="back_root" clickable @click="quitForm">
-                  <q-item-section >back</q-item-section>
-                </q-item>
-
-              </q-list>
-            </q-menu>
+    <div class="absolute-top-right q-mt-lg q-mr-lg z-top">
+            <q-btn  color="grey-7"  label="zurück" flat icon="close" data-cy="btn_options" @click="quitForm">
+            
           </q-btn>
         </div>
 </template>

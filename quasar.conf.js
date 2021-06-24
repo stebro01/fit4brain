@@ -116,8 +116,8 @@ module.exports = function (/* ctx */) {
       workboxPluginMode: 'GenerateSW', // 'GenerateSW' or 'InjectManifest'
       workboxOptions: {}, // only for GenerateSW
       manifest: {
-        name: `surveyBEST`,
-        short_name: `surveyBEST`,
+        name: `fit4brain`,
+        short_name: `fit4brain`,
         description: `online Fragebogen nach HL7 Standard`,
         display: 'standalone',
         orientation: 'portrait',
@@ -183,7 +183,7 @@ module.exports = function (/* ctx */) {
       builder: {
         // https://www.electron.build/configuration/configuration
 
-        appId: 'surveybest'
+        appId: 'fit4brain'
       },
 
       // More info: https://v1.quasar.dev/quasar-cli/developing-electron-apps/node-integration

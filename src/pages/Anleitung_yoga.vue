@@ -8,16 +8,11 @@
 
         <q-card flat class="my-card">
           <q-card-section class="text-h1">
-            <q-img src="btn_train_plan.jpg" style="height:100%; width:100%" />
-            
+            Yoga
           </q-card-section>
-          <q-card-section class="text-h2">
-            Mein Trainingsplan
-          </q-card-section>
-
+         
           <q-card-section>
-            Hier sehen Sie, welche Trainingseinheiten heute bei Ihnen anstehen. Durch Klicken auf die einzelnen Einheiten werden Sie direkt dorthin weitergeleitet.  
-            <br>Haben Sie alle Übungen an einem Tag erledigt können Sie im untersten Feld des Plans ein Häkchen setzen!
+           Um die Übungen beim Yoga korrekt auszuführen, sehen Sie sich bitte die hier aufgelisteten Videos zur richtigen Durchführung an. Am besten lassen Sie das Video auf Ihrem PC oder Fernseher abspielen und machen parallel mit. 
           </q-card-section>
         </q-card>
     
@@ -25,7 +20,8 @@
 
 
      <div class="col">
-       <q-img src="trainplan_screenshot.png" style="width: 500px"></q-img>
+       <q-img src="anleitung_yoga.jpg" style="width: 500px">
+       </q-img>
      </div>
 
      <!-- ENDE COLUMN -->
@@ -39,7 +35,7 @@
 
 
 export default {
-  name: 'Trainingsplan',
+  name: 'Anleitung_yoga',
   
   data () {
     return {

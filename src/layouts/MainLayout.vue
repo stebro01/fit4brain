@@ -27,15 +27,15 @@
     <!-- FOOTER -->
     <q-footer bordered class="bg-white text-primary">
 
-      <div class="row q-my-md" style="max-height:100px">
+      <div class="row q-pa-md">
         <div class="col">
-          <q-img src="logo_ukj.png" style="height:100px; max-width: 300px"/>
+          <q-img src="logo_ukj.png" style="height:60px; max-width: 150px"/>
         </div>
         <div class="col">
-          <q-img src="logo_uni.png" style="height:100px; max-width: 300px"/>
+          <q-img src="logo_uni.png" style="height:60px; max-width: 180px"/>
         </div>
         <div class="col">
-          <q-img src="logo_itn.png" style="height: 100px; width: 250px"/>
+          <q-img src="logo_itn.png" style="height:60px; max-width: 200px"/>
         </div>
       </div>
         

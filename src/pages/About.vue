@@ -8,7 +8,7 @@
 
         <q-card flat class="my-card">
           <q-card-section class="text-h1">
-            <q-img src="btn_about.png" style="height:100%; width:100%" />
+            <q-img src="btn_about.jpg" style="height:100%; width:100%" />
           </q-card-section>
           <q-card-section>
             Sollten Sie Fragen, Anmerkungen oder ein sonstiges Anliegen haben, nutzen Sie einfach unser Kontaktformular. Bitte achten Sie darauf Ihre eigene Email-Adresse anzugeben, damit wir Ihnen auf Ihre Anfrage antworten können. Vielen Dank!

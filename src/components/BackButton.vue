@@ -28,7 +28,7 @@ export default {
       }
 
       this.$store.state.PROTECTED_MODE = false;
-      this.$router.push('/')
+      this.$router.go(-1)
     }
 
 

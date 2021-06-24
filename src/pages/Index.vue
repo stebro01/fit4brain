@@ -28,20 +28,20 @@ Und jetzt viel Spaß beim fit werden!
 
           <!-- TRAINPLAN -->
           <q-card class="my-card" flat  @click="$router.push({name: 'Trainingsplan'}).catch(() => {})">
-            <q-img src="btn_train_plan.png" style="height:100%; width:100%">
+            <q-img src="btn_train_plan.jpg" style="height:100%; width:100%">
             </q-img>
             
           </q-card>
 
           <!-- Instructions -->
           <q-card class="my-card" flat @click="$router.push({name: 'Anleitungen'}).catch(() => {})">
-            <q-img src="btn_instructions.png" style="height:100%; width:100%">
+            <q-img src="btn_instructions.jpg" style="height:100%; width:100%">
             </q-img>
           </q-card>
 
           <!-- ABOUT -->
           <q-card class="my-card" flat @click="$router.push({name: 'about'}).catch(() => {})">
-            <q-img src="btn_about.png" style="height:100%; width:100%">
+            <q-img src="btn_about.jpg" style="height:100%; width:100%">
             </q-img>
           </q-card>
 

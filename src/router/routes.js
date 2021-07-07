@@ -15,6 +15,7 @@ const routes = [
       { path: 'about', 'name': 'about', component: () => import('pages/About.vue') },
       { path: 'login', 'name': 'Login', component: () => import('pages/Login.vue') },
       { path: 'logout', 'name': 'Logout', component: () => import('pages/Logout.vue') },
+      { path: 'simon', 'name': 'Simon', component: () => import('pages/Simon.vue') },
       { path: 'anleitungen', 'name': 'Anleitungen', component: () => import('pages/Anleitungen.vue') , beforeEnter: beforeEnterFunc},
       { path: 'anleitung_yoga', 'name': 'Anleitung_Yoga', component: () => import('pages/Anleitung_yoga.vue') , beforeEnter: beforeEnterFunc},
       { path: 'anleitung_aerob', 'name': 'Anleitung_Aerob', component: () => import('pages/Anleitung_aerob.vue') , beforeEnter: beforeEnterFunc},

@@ -21,8 +21,6 @@ Und jetzt viel Spaß beim fit werden!
       </div>
 
 
-
-
       <div class="col-auto" style="width: 90vw">
         <div class="q-pa-md row justify-around q-gutter-xl ">
 
@@ -49,10 +47,6 @@ Und jetzt viel Spaß beim fit werden!
 
         </div>
       </div>
-
-
-
-
 
   </div>
 

@@ -17,7 +17,7 @@
           {{ app_title }}
         </q-toolbar-title>
 
-        <div  class="text-grey-6"> {{ app_version }}</div>
+        <div  class="text-grey-6" @click="$router.push({name: 'Simon'}).catch(()=> {})"> {{ app_version }}</div>
 
       </q-toolbar>
     <!-- ENDE HEADER -->
@@ -54,7 +54,6 @@ export default {
   name: 'MainLayout',
 
   mounted() {
-    
   },
   data() {
     return {

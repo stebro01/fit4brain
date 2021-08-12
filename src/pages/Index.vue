@@ -10,7 +10,7 @@
       <div class="col-1">
         <q-card flat class="my-card">
           <q-card-section class="text-h1">
-            Willkommen auf der offiziellen Fit4Brain Website
+            Herzlich willkommen auf der offiziellen Fit4Brain Website
           </q-card-section>
           <q-card-section>
             Hier finden Sie Ihren persönlichen Trainingsplan, Video- und Infomaterial zu den Übungen, sowie Informationen zu der Studie. Sollten Sie noch weitere Fragen haben erreichen Sie uns über die „Kontakt“-Schaltfläche unten auf der Seite.

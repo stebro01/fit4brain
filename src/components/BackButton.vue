@@ -1,7 +1,6 @@
 <template>
     <div class="absolute-top-right q-mt-sm q-mr-sm z-top">
             <q-btn  color="grey-7"  flat icon="close" data-cy="btn_options" @click="quitForm">
-            
           </q-btn>
         </div>
 </template>
@@ -11,7 +10,7 @@
 
 export default {
   name: 'BACKBUTTON',
-  props: ["ask"],
+  props: ["ask", "gotostart"],
 
   data() {
     return {
@@ -27,8 +26,8 @@ export default {
         if (!answer) return
       }
 
-      this.$store.state.PROTECTED_MODE = false;
-      this.$router.go(-1)
+      if (this.gotostart === true) this.$router.push({name: 'start'})
+      else this.$router.go(-1)
     }
 
 

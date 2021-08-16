@@ -1,7 +1,7 @@
 <template>
   <q-page data-cy="page_about">
 
-    <BACKBUTTON />
+    <BACKBUTTON  :gotostart="true" />
 
     <div class="column items-center q-px-xl">
       <div class="col-7">

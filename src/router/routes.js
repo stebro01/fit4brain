@@ -12,7 +12,7 @@ const routes = [
     component: () => import('layouts/MainLayout.vue'),
     children: [
       { path: '', 'name': 'start', component: () => import('pages/Index.vue') },
-      { path: 'about', 'name': 'about', component: () => import('pages/About.vue') },
+      { path: 'about', 'name': 'about', component: () => import('src/pages/About.vue') },
       { path: 'login', 'name': 'Login', component: () => import('pages/Login.vue') },
       { path: 'logout', 'name': 'Logout', component: () => import('pages/Logout.vue') },
       { path: 'simon', 'name': 'Simon', component: () => import('pages/Simon.vue') },
@@ -24,7 +24,9 @@ const routes = [
       { path: 'anleitung_jonglieren', 'name': 'Anleitung_Jonglieren', component: () => import('pages/Anleitung_jonglieren.vue') , beforeEnter: beforeEnterFunc},
       { path: 'trainingsplan', 'name': 'Trainingsplan', component: () => import('pages/Trainingsplan.vue'), beforeEnter: beforeEnterFunc },
       { path: 'trainingsplan_control', 'name': 'Trainingsplan_control', component: () => import('src/pages/Trainingsplan_control.vue'), beforeEnter: beforeEnterFunc },
-      { path: 'trainingsplan_verum', 'name': 'Trainingsplan_verum', component: () => import('src/pages/Trainingsplan_verum.vue'), beforeEnter: beforeEnterFunc }
+      { path: 'trainingsplan_verum', 'name': 'Trainingsplan_verum', component: () => import('src/pages/Trainingsplan_verum.vue'), beforeEnter: beforeEnterFunc },
+      { path: 'about_control', 'name': 'about_control', component: () => import('src/pages/About_control.vue'), beforeEnter: beforeEnterFunc },
+      { path: 'about_verum', 'name': 'about_verum', component: () => import('src/pages/About_verum.vue'), beforeEnter: beforeEnterFunc }
     ]
   },
 

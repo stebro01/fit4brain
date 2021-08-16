@@ -41,7 +41,9 @@ export default {
     return {
       TEXT: this.$store.state.TEXT,
       passphrase: null,
-      code_false: false
+      code_false: false,
+      pw_verum: process.env.APP_PW_verum,
+      pw_control: process.env.APP_PW_control,
     }
   },
   mounted() {
@@ -53,13 +55,23 @@ export default {
   methods: {
     loginFunc() {
 
-      if (this.passphrase === 'AAA') {
+      if (this.passphrase === this.pw_verum ) {
         this.$store.state.access_allowed = true;
+        this.$store.state.access_group = 'verum';
         this.code_false = false
         if (this.$store.state.next_route === null) this.$router.push({name: "start"})
         else this.$router.push({name: this.$store.state.next_route.name})
         return
       }
+      else if (this.passphrase === this.pw_control ) {
+        this.$store.state.access_allowed = true;
+        this.$store.state.access_group = 'control';
+        this.code_false = false
+        if (this.$store.state.next_route === null) this.$router.push({name: "start"})
+        else this.$router.push({name: this.$store.state.next_route.name})
+        return
+      }
+
 
       // ERROR MESSAGE
       this.show_error()

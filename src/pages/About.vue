@@ -11,8 +11,7 @@
             <q-img src="btn_about.jpg" style="height:100%; width:100%" />
           </q-card-section>
           <q-card-section>
-            Sollten Sie Fragen, Anmerkungen oder ein sonstiges Anliegen haben, nutzen Sie einfach unser Kontaktformular. Bitte achten Sie darauf Ihre eigene Email-Adresse anzugeben, damit wir Ihnen auf Ihre Anfrage antworten können. Vielen Dank!
-
+           Auf dieser Seite finden Sie Antworten auf häufig gestellte Fragen. Sollten Sie eine Frage haben, die hier nicht aufgeführt ist, so können Sie und auch eine Mail an ________________ schicken und wir werden schnellstmöglich versuchen Ihre Frage zu klären! In dringenden Fällen können Sie uns auch anrufen (bei allgemeinen Fragen zur Studie: 03641 9396666; bei Fragen rund um die Übungseinheiten: 03641 945607).
           </q-card-section>
         </q-card>
     

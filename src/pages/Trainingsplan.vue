@@ -3,34 +3,9 @@
 
     <BACKBUTTON />
 
-    <div class="column items-center q-px-xl">
-      <div class="col-7">
-
-        <q-card flat class="my-card">
-          <q-card-section class="text-h1">
-            <q-img src="btn_train_plan.jpg" style="height:100%; width:100%" />
-            
-          </q-card-section>
-          <q-card-section class="text-h2">
-            Mein Trainingsplan
-          </q-card-section>
-
-          <q-card-section>
-            Hier sehen Sie, welche Trainingseinheiten heute bei Ihnen anstehen. Durch Klicken auf die einzelnen Einheiten werden Sie direkt dorthin weitergeleitet.  
-            <br>Haben Sie alle Übungen an einem Tag erledigt können Sie im untersten Feld des Plans ein Häkchen setzen!
-          </q-card-section>
-        </q-card>
+    HIER WIRD ENTSCHIEDEN WO ES HINGEHT
     
-     </div>
-
-
-     <div class="col">
-       <q-img src="trainplan_screenshot.png" style="width: 500px"></q-img>
-     </div>
-
-     <!-- ENDE COLUMN -->
-    </div>
-
+    {{$store.state.access_group}}
       
   </q-page>
 </template>
@@ -45,6 +20,10 @@ export default {
     return {
       TEXT: this.$store.state.TEXT
     }
+  },
+  mounted(){
+    if (this.$store.state.access_group === 'verum') this.$router.push({name: 'Trainingsplan_verum'})
+    else this.$router.push({name: 'Trainingsplan_control'})
   },
   components: {
     BACKBUTTON: () => import('src/components/BackButton')  },

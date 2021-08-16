@@ -12,7 +12,7 @@
           </q-card-section>
          
           <q-card-section>
-           Sehen Sie sich die hier aufgeführten Videos genau an, damit Sie die richtige Ausführung übernehmen…
+           Hier finden Sie Videos zur richtigen Technik beim Jonglieren. Sollten Sie noch nicht jonglieren können ist das gar kein Problem. Starten Sie mit einem einzelnen Ball und werfen Sie diesen wie in dem Video gezeigt von Hand zu Hand. Sie können Ihrem Übungsplan entnehmen, wann Sie den nächsten Ball hinzunehmen können.
           </q-card-section>
         </q-card>
     

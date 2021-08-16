@@ -7,10 +7,10 @@
       <!-- TOOLBAR -->
       <q-toolbar>
         
-        <q-chip v-if="$store.state.access_allowed === true" class="bg-green-1" icon="check" label="angemeldet" clickable @click="$router.push({name:'Logout'})">
+        <q-chip v-if="$store.state.access_allowed === true" class="bg-green-1" icon="check" label="angemeldet" clickable @click="$router.push({name:'Logout'}).catch(()=>{})">
         </q-chip>
 
-        <q-toolbar-title  class="text-center" @click="$router.push({name:'start'})" >
+        <q-toolbar-title  class="text-center" @click="$router.push({name:'start'}).catch(()=>{})" >
           <q-avatar>
               <q-icon  name="spa" />
           </q-avatar>

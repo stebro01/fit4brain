@@ -12,12 +12,12 @@
           </q-card-section>
          
           <q-card-section>
-           Beim aeroben Teil Ihres Trainings gibt es verschiedene Punkte, auf die Sie achten müssen:
+           Beim aeroben Teil des Programms gibt es verschiedene Punkte, auf die Sie achten müssen:
 
             <ul>
-              <li>Intensität: Je nach dem in welcher Woche des Trainings Sie sich befinden, wird sich auch die Intensität des Trainings verändern. Dabei können Sie die angegebene Intensität wie folgt überprüfen:</li>
-              <li>Aufwärmen und Cool down: Es ist sehr wichtig, dass Sie nicht unaufgewärmt mit dem Sport beginnen! Dies kann zu … führen. Starten Sie deshalb jede Trainingseinheit mit….</li>
-              <li>Trainieren Sie unbedingt nur in einem Bereich, in dem Sie sich auch wohlfühlen……</li>
+              <li>Intensität: Achten Sie darauf, welche Intensität die aktuelle Einheit in Ihrem Übungsplan hat (z.B. moderat, submaximal). Um die gewünschte Intensität zu erreichen gehen Sie wiefolgt vor: moderat: ..... submaximal: ...... </li>
+              <li>Aufwärmen und Cooldown (Abwärmen): Es ist sehr wichtig, dass Sie nicht unaufgewärmt mit dem Sport beginnen! Dies kann zu … führen. Starten Sie deshalb jede Einheit mit.....</li>
+              <li>Trainieren Sie unbedingt nur in einem Bereich, in dem Sie sich auch wohlfühlen. Natürlich dürfen die aeroben Einheiten auch anstrengend sein. Sollten Sie jedoch ... merken/sich fühlen, dann reduzieren Sie bitte die Intensität oder machen eine Pause. </li>
             </ul>
 
           </q-card-section>

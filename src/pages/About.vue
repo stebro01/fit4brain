@@ -5,6 +5,8 @@
 
     Bitte anmelden
       
+  {{$store.state.access_group}}
+
   </q-page>
 </template>
 

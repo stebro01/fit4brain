@@ -13,8 +13,9 @@
             Herzlich willkommen auf der offiziellen Fit4Brain Website
           </q-card-section>
           <q-card-section>
-            Hier finden Sie Ihren persönlichen Übungsplan, Video- und Infomaterial zu den Einheiten sowie Informationen zu der Studie. Sollten Sie noch weitere Fragen haben, klicken Sie auf "FAQ - Häufig gestellte Fragen", wo Sie Antworten auf viele Fragen finden.
-Und jetzt viel Spaß beim fit werden! 
+            Hier finden Sie Ihren persönlichen Übungsplan, Video- und Infomaterial zu den Einheiten sowie Informationen zu der Studie. 
+            Sollten Sie noch weitere Fragen haben, klicken Sie auf "Fragen und Kontakt", wo Sie Antworten auf viele Fragen finden.
+            Und jetzt viel Spaß beim fit werden! 
           </q-card-section>
         </q-card>
         

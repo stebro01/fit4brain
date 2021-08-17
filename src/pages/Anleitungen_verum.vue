@@ -11,7 +11,7 @@
             <q-img src="btn_instructions.jpg" style="height:100%; width:100%" />
           </q-card-section>
           <q-card-section class="text-h2">
-            Anleitungen und Videos (verum)
+            Anleitungen und Videos
           </q-card-section>
 
           <q-card-section>

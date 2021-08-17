@@ -12,12 +12,13 @@
             
           </q-card-section>
           <q-card-section class="text-h2">
-            Mein Übungsplan (VERUM)
+            Mein Übungsplan
           </q-card-section>
 
           <q-card-section>
-            Hier sehen Sie, welche Übungseinheiten heute bei Ihnen anstehen. Falls Sie nähere Informationen oder Erkärungen zu den einzelnen Einheiten benötigen, klicken Sie "Anleitungen und Videos" auf der Startseite. Dort finden Sie genaue Erklärungen zur richtigen Ausführung sowie Tipps zu den einzelnen Einheiten.  
-            <br>Haben Sie alle Übungen an einem Tag erledigt können Sie im untersten Feld des Plans ein Häkchen setzen!
+            Hier sehen Sie, welche Übungseinheiten heute bei Ihnen anstehen. Falls Sie nähere Informationen oder Erkärungen zu den einzelnen Einheiten benötigen, 
+            klicken Sie HIER(LINK EINFÜGEN). 
+            Unter der Schaltfläche "Anleitungen" auf der Startseite finden Sie genaue Erklärungen zur richtigen Ausführung sowie Tipps zu den einzelnen Einheiten.
           </q-card-section>
         </q-card>
     

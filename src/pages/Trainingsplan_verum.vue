@@ -24,9 +24,8 @@
     
      </div>
 
-
      <div class="col">
-       <q-img src="trainplan_screenshot.png" style="width: 500px"></q-img>
+       <TRAININGS_TABLE />
      </div>
 
      <!-- ENDE COLUMN -->
@@ -50,8 +49,11 @@ export default {
   mounted() {
     if (this.$store.state.access_group !== 'verum') this.$router.push({name: 'start'})
   },
+
   components: {
-    BACKBUTTON: () => import('src/components/BackButton')  },
+    BACKBUTTON: () => import('src/components/BackButton'),
+    TRAININGS_TABLE: () => import('src/components/Trainingsplan_verum_table.vue')   
+  }
 
 }
 </script>

@@ -25,7 +25,20 @@
 
 
      <div class="col">
-       <q-img src="trainplan_screenshot.png" style="width: 500px"></q-img>
+       <div class="q-pa-lg flex flex-center">
+        <q-pagination
+          v-model="current"
+          color="primary"
+          :max="8"
+          :max-pages="8"
+          boundary-numbers
+        />
+      </div>
+       <TRAININGS_TABLE_1 v-if="current === 1" />
+       <TRAININGS_TABLE_2 v-else-if="current === 2"/>
+       <div v-else>
+         STILL TODO
+       </div>
      </div>
 
      <!-- ENDE COLUMN -->
@@ -43,14 +56,20 @@ export default {
   
   data () {
     return {
-      TEXT: this.$store.state.TEXT
+      TEXT: this.$store.state.TEXT,
+      current: 1
     }
   },
+  
   mounted() {
     if (this.$store.state.access_group !== 'control') this.$router.push({name: 'start'})
   },
+  
   components: {
-    BACKBUTTON: () => import('src/components/BackButton')  },
+    BACKBUTTON: () => import('src/components/BackButton'),
+    TRAININGS_TABLE_1: () => import('src/components/Trainingsplan_control_table_1.vue'),
+    TRAININGS_TABLE_2: () => import('src/components/Trainingsplan_control_table_2.vue') 
+  }
 
 }
 </script>

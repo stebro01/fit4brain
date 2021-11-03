@@ -22,7 +22,7 @@ export default {
     }
   },
   mounted(){
-    if (this.$store.state.access_allowed !== true) return false
+    if (this.$store.state.access_allowed !== true) return this.$router.push({name: 'Login'})
     if (this.$store.state.access_group === 'verum') this.$router.push({name: 'about_verum'})
     else this.$router.push({name: 'about_control'})
   },

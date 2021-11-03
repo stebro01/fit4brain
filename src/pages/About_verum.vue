@@ -18,7 +18,6 @@
      </div>
 
 <div class="column items-center q-pa-xl" >
-      
       <div class="col-3 gt-sm text-center" style="height: 300px; width: 100%">
         <q-img src="bg_index.jpg" style="max-width: 400px"></q-img>
       </div>

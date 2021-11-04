@@ -19,8 +19,8 @@
           <td>
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
-              <li><a href="#/anleitungen_b">Yoga</a></li>
-              <li>Jonglieren (1 Ball- ca. 5min)</li>
+              <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
+              <li><a href="#/anleitung_jonglieren">Jonglieren (1 Ball)</a></li>
             </ul>
           </td>
           <td class="text-center">
@@ -28,10 +28,110 @@
             <q-img src="icon_intensity.png" style="height:100%; width:200px" />
 
           </td>
-          <td>Meditation</td>
+          <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
         </tr>
 
         <!-- ZEILE2 -->
+        <tr class="bg-grey-4">
+          <td>Dienstag</td>
+          <td>
+            <ul class="text-left">
+              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
+              <li><a href="#/anleitung_jonglieren">Jonglieren (1 Ball)</a></li>
+            </ul>
+          </td>
+          <td class="text-center">
+            <br>
+
+          </td>
+          <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
+        </tr>
+
+        <!-- Zeile3 -->
+        <tr class="bg-grey-4">
+          <td>Mittwoch</td>
+          <td>
+            <ul class="text-left">
+              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
+              <li><a href="#/anleitung_jonglieren">Jonglieren (1 Ball)</a></li>
+            </ul>
+          </td>
+          <td class="text-center">
+            Walken – 30 min (kontinuierlich)<br>
+            <q-img src="icon_intensity.png" style="height:100%; width:200px" />
+
+          </td>
+          <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
+        </tr>
+
+        <!-- Zeile4 -->
+        <tr class="bg-grey-4">
+          <td>Donnerstag</td>
+          <td>
+            <ul class="text-left">
+              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
+              <li><a href="#/anleitung_jonglieren">Jonglieren (1 Ball)</a></li>
+            </ul>
+          </td>
+          <td class="text-center">
+            <br>
+            
+          </td>
+         <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
+        </tr>
+
+        <!-- Zeile5 -->
+        <tr class="bg-grey-4">
+          <td>Freitag</td>
+          <td>
+            <ul class="text-left">
+              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
+              <li><a href="#/anleitung_jonglieren">Jonglieren (1 Ball)</a></li>
+            </ul>
+          </td>
+          <td class="text-center">
+            Walken – 30 min (kontinuierlich)<br>
+            <q-img src="icon_intensity.png" style="height:100%; width:200px" />
+
+          </td>
+          <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
+        </tr>
+
+        <!-- Zeile6 -->
+        <tr class="bg-grey-4">
+          <td>Samstag</td>
+          <td>
+            <ul class="text-left">
+              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+            </ul>
+          </td>
+          <td class="text-center">
+            <br>
+            
+
+          </td>
+          <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
+        </tr>
+
+        <!-- Zeile7 -->
+        <tr class="bg-grey-4">
+          <td>Sonntag</td>
+          <td>
+            <ul class="text-left">
+              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+            </ul>
+          </td>
+          <td class="text-center">
+            <br>
+            
+
+          </td>
+          <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
+        </tr>
 
 
       </table>

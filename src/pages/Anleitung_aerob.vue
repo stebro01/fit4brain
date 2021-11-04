@@ -27,7 +27,7 @@
 
 
      <div class="col">
-       <q-img src="anleitung_aerob_img.jpg" style="width: 500px">
+       <q-img src="anleitung_aerob_img.jpg" style="width: 400px">
        </q-img>
      </div>
 

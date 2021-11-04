@@ -11,10 +11,12 @@
             <q-img src="btn_about.jpg" style="height:100%; width:100%" />
           </q-card-section>
           <q-card-section>
-           Auf dieser Seite finden Sie Antworten auf häufig gestellte Fragen. Sollten Sie eine Frage haben, die hier nicht aufgeführt ist, so können Sie und auch eine Mail an ________________ schicken und wir werden schnellstmöglich versuchen Ihre Frage zu klären! In dringenden Fällen können Sie uns auch anrufen (bei allgemeinen Fragen zur Studie: 03641 9396666; bei Fragen rund um die Übungseinheiten: 03641 945607).
+           Auf dieser Seite finden Sie Antworten auf häufig gestellte Fragen. Sollten Sie eine Frage haben, die hier nicht aufgeführt ist, so können Sie und auch eine Mail an simon.schrenk@med.uni-jena.de schicken und wir werden schnellstmöglich versuchen Ihre Frage zu klären! In dringenden Fällen können Sie uns auch anrufen (bei allgemeinen Fragen zur Studie: 03641/9396666; bei Fragen rund um die Übungseinheiten: 03641/945607).
           </q-card-section>
         </q-card>
     
+    HIER NOCH FAQ AUSKLAPPLISTE EINFÜGEN
+
      </div>
 
       <!-- KONTAKT -->

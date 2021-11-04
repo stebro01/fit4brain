@@ -20,7 +20,7 @@
 
 
      <div class="col">
-       <q-img src="anleitung_yoga.jpg" style="width: 500px">
+       <q-img src="anleitungen_img.jpg" style="width: 500px">
        </q-img>
      </div>
 

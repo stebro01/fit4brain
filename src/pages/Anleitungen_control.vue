@@ -23,17 +23,17 @@
      </div>
 
      <div class="col">
-       <q-img src="anleitungen_img.jpg" style="width: 400px">
+       <q-img src="PMR_img.jpg" style="width: 400px">
        </q-img>
      </div>
      
     <div class="col-7">
       <q-card flat class="my-card">
        <q-card-section>
-            Suchen Sie sich für die Muskelentspannungs-Einheit einen Ort, an dem Sie in Ruhe sitzen oder liegen können. Sie sollte
+            Suchen Sie sich für die Muskelentspannungs-Einheit einen Ort, an dem Sie in Ruhe sitzen oder liegen können. Sie sollten
             ca. 30-45 Minuten in dieser Position verbleiben können. Starten Sie die Einheit, indem Sie auf folgenden Link klicken: (HIER LINK EINFÜGEN).
             Hier werden SIe durch die Entspannung geführt und es wird Ihnen erklärt, was Sie tun sollen. Sollten Sie dennoch Fragen haben,
-            erreichen Sie uns unter dieser E-Mail: (HIER MAIL EINFÜGEN/SPOWI)
+            erreichen Sie uns unter dieser E-Mail: marco.herbsleb@uni-jena.de
             </q-card-section>
         </q-card>
      </div>
@@ -49,6 +49,11 @@
             während Sie zuhören.
             </q-card-section>
         </q-card>
+     </div>
+
+<div class="col">
+       <q-img src="podcast_img.jpg" style="width: 400px">
+       </q-img>
      </div>
 
 

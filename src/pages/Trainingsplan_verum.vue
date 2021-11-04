@@ -21,11 +21,25 @@
             Unter der Schaltfläche "Anleitungen" auf der Startseite finden Sie genaue Erklärungen zur richtigen Ausführung sowie Tipps zu den einzelnen Einheiten.
           </q-card-section>
         </q-card>
-    
+
      </div>
+     
 
      <div class="col">
-       <TRAININGS_TABLE />
+       <div class="q-pa-lg flex flex-center">
+        <q-pagination
+          v-model="current"
+          color="primary"
+          :max="8"
+          :max-pages="8"
+          boundary-numbers
+        />
+      </div>
+       <TRAININGS_TABLE_1 v-if="current === 1" />
+       <TRAININGS_TABLE_2 v-else-if="current === 2"/>
+       <div v-else>
+         STILL TODO
+       </div>
      </div>
 
      <!-- ENDE COLUMN -->
@@ -52,7 +66,8 @@ export default {
 
   components: {
     BACKBUTTON: () => import('src/components/BackButton'),
-    TRAININGS_TABLE: () => import('src/components/Trainingsplan_verum_table.vue')   
+    TRAININGS_TABLE_1: () => import('src/components/Trainingsplan_verum_table_1.vue'),
+    TRAININGS_TABLE_2: () => import('src/components/Trainingsplan_verum_table_2.vue')   
   }
 
 }

@@ -17,7 +17,7 @@
 
           <q-card-section>
             Hier sehen Sie, welche Übungseinheiten heute bei Ihnen anstehen. Falls Sie nähere Informationen oder Erkärungen zu den einzelnen Einheiten benötigen, klicken Sie "Anleitungen und Videos" auf der Startseite. Dort finden Sie genaue Erklärungen zur richtigen Ausführung sowie Tipps zu den einzelnen Einheiten.  
-            <br>Haben Sie alle Übungen an einem Tag erledigt können Sie im untersten Feld des Plans ein Häkchen setzen!
+            <br>Haben Sie alle Übungen an einem Tag erledigt können Sie diesen Tag an der Seite abhaken!
           </q-card-section>
         </q-card>
     
@@ -36,9 +36,12 @@
       </div>
        <TRAININGS_TABLE_1 v-if="current === 1" />
        <TRAININGS_TABLE_2 v-else-if="current === 2"/>
-       <div v-else>
-         STILL TODO
-       </div>
+       <TRAININGS_TABLE_3 v-else-if="current === 3"/>
+       <TRAININGS_TABLE_4 v-else-if="current === 4"/>
+       <TRAININGS_TABLE_5 v-else-if="current === 5"/>
+       <TRAININGS_TABLE_6 v-else-if="current === 6"/>
+       <TRAININGS_TABLE_7 v-else-if="current === 7"/>
+       <TRAININGS_TABLE_8 v-else-if="current === 8"/>
      </div>
 
      <!-- ENDE COLUMN -->
@@ -68,7 +71,13 @@ export default {
   components: {
     BACKBUTTON: () => import('src/components/BackButton'),
     TRAININGS_TABLE_1: () => import('src/components/Trainingsplan_control_table_1.vue'),
-    TRAININGS_TABLE_2: () => import('src/components/Trainingsplan_control_table_2.vue') 
+    TRAININGS_TABLE_2: () => import('src/components/Trainingsplan_control_table_2.vue'),
+    TRAININGS_TABLE_3: () => import('src/components/Trainingsplan_control_table_3.vue'),
+    TRAININGS_TABLE_4: () => import('src/components/Trainingsplan_control_table_4.vue'),
+    TRAININGS_TABLE_5: () => import('src/components/Trainingsplan_control_table_5.vue'),
+    TRAININGS_TABLE_6: () => import('src/components/Trainingsplan_control_table_6.vue'),
+    TRAININGS_TABLE_7: () => import('src/components/Trainingsplan_control_table_7.vue'),
+    TRAININGS_TABLE_8: () => import('src/components/Trainingsplan_control_table_8.vue')
   }
 
 }

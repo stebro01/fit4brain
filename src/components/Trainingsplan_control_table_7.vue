@@ -1,7 +1,7 @@
 <template>
   <div> 
     <div class="q-mt-lg text-center text-h2">
-      1. Woche
+      7. Woche
     </div>
     
       <table class="text-center">
@@ -20,11 +20,11 @@
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
               <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
-              <li><a href="#/anleitung_jonglieren">Jonglieren (1 Ball)</a></li>
+              <li><a href="#/anleitung_jonglieren">Jonglieren (3 Bälle)</a></li>
             </ul>
           </td>
           <td class="text-center">
-            Walken – 30 min (kontinuierlich)<br>Inensitätszone 2<br>
+            Walken – 30 min (kontinuierlich)<br>Intensitätszone 2  <br>
             <q-img src="icon_train_cont_short.JPG" style="height:100%; width:200px" />
 
           </td>
@@ -38,7 +38,7 @@
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
               <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
-              <li><a href="#/anleitung_jonglieren">Jonglieren (1 Ball)</a></li>
+              <li><a href="#/anleitung_jonglieren">Jonglieren (3 Bälle)</a></li>
             </ul>
           </td>
           <td class="text-center">
@@ -55,12 +55,12 @@
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
               <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
-              <li><a href="#/anleitung_jonglieren">Jonglieren (1 Ball)</a></li>
+              <li><a href="#/anleitung_jonglieren">Jonglieren (3 Bälle)</a></li>
             </ul>
           </td>
           <td class="text-center">
-            Walken – 30 min (kontinuierlich)<br>Inensitätszone 2<br>
-            <q-img src="icon_train_cont_short.JPG" style="height:100%; width:200px" />
+            Walken – 41 min (Intervall)<br> Intensität 1 + 4<br>
+            <q-img src="icon_train_interv_4_long.JPG" style="height:100%; width:200px" />
 
           </td>
           <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
@@ -73,7 +73,7 @@
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
               <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
-              <li><a href="#/anleitung_jonglieren">Jonglieren (1 Ball)</a></li>
+              <li><a href="#/anleitung_jonglieren">Jonglieren (3 Bälle)</a></li>
             </ul>
           </td>
           <td class="text-center">
@@ -90,7 +90,7 @@
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
               <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
-              <li><a href="#/anleitung_jonglieren">Jonglieren (1 Ball)</a></li>
+              <li><a href="#/anleitung_jonglieren">Jonglieren (3 Bälle)</a></li>
             </ul>
           </td>
           <td class="text-center">
@@ -110,7 +110,8 @@
             </ul>
           </td>
           <td class="text-center">
-            <br>
+             Walken – 41 min (Intervall)<br>Intensitätszonen 1 + 4<br>
+            <q-img src="icon_train_interv_4_long.JPG" style="height:100%; width:200px" />
             
 
           </td>

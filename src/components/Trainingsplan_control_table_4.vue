@@ -19,13 +19,11 @@
           <td>
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
-              <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
-              <li><a href="#/anleitung_jonglieren">Jonglieren (2 Bälle)</a></li>
+              <li><a href="#/anleitungen_b">Podcast Kapitel 4.1</a></li>
             </ul>
           </td>
           <td class="text-center">
-            Walken – 40 min (kontinuierlich)<br>Inensitätszone 2<br>
-            <q-img src="icon_train_cont_long.jpg" style="height:100%; width:200px" />
+            <li><a href="#/anleitungen_b">Progressive Muskelrelaxation 2</a></li>
 
           </td>
           <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
@@ -37,8 +35,7 @@
           <td>
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
-              <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
-              <li><a href="#/anleitung_jonglieren">Jonglieren (2 Bälle)</a></li>
+              <li><a href="#/anleitungen_b">Podcast Kapitel 4.2</a></li>
             </ul>
           </td>
           <td class="text-center">
@@ -54,13 +51,11 @@
           <td>
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
-              <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
-              <li><a href="#/anleitung_jonglieren">Jonglieren (2 Bälle)</a></li>
+              <li><a href="#/anleitungen_b">Podcast Kapitel 4.3</a></li>
             </ul>
           </td>
           <td class="text-center">
-            Walken – 35 min (Intervall)<br>Inensitätszonen 1 +3<br>
-            <q-img src="icon_train_interv_3.JPG" style="height:100%; width:200px" />
+            <li><a href="#/anleitungen_b">Progressive Muskelrelaxation 2</a></li>
 
           </td>
           <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
@@ -72,8 +67,7 @@
           <td>
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
-              <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
-              <li><a href="#/anleitung_jonglieren">Jonglieren (2 Bälle)</a></li>
+              <li><a href="#/anleitungen_b">Podcast Kapitel 4.4</a></li>
             </ul>
           </td>
           <td class="text-center">
@@ -89,13 +83,11 @@
           <td>
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
-              <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
-              <li><a href="#/anleitung_jonglieren">Jonglieren (2 Bälle)</a></li>
+              <li><a href="#/anleitungen_b">Podcast Kapitel 4.5</a></li>
             </ul>
           </td>
           <td class="text-center">
-            Walken – 30 min (kontinuierlich)<br>Inensitätszone 2<br>
-            <q-img src="icon_train_cont_short.JPG" style="height:100%; width:200px" />
+            <li><a href="#/anleitungen_b">Progressive Muskelrelaxation 2</a></li>
 
           </td>
           <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
@@ -110,8 +102,7 @@
             </ul>
           </td>
           <td class="text-center">
-             Walken – 35 min (Intervall)<br>Inensitätszonen 1 + 3<br>
-            <q-img src="icon_train_interv_3.JPG" style="height:100%; width:200px" />
+            <li><a href="#/anleitungen_b">Progressive Muskelrelaxation 2</a></li>
             
 
           </td>

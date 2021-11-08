@@ -12,7 +12,7 @@
             
           </q-card-section>
           <q-card-section class="text-h2">
-            Mein Übungsplan / Kontrolle
+            Mein Übungsplan
           </q-card-section>
 
           <q-card-section>

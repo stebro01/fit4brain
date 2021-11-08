@@ -24,11 +24,11 @@
             </ul>
           </td>
           <td class="text-center">
-            Walken – 30 min (kontinuierlich)<br>
-            <q-img src="icon_intensity.png" style="height:100%; width:200px" />
+            Walken – 30 min (kontinuierlich)<br>Inensitätszone 2<br>
+            <q-img src="icon_train_cont_short.JPG" style="height:100%; width:200px" />
 
           </td>
-          <td>Meditation</td>
+          <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
         </tr>
 
         <!-- ZEILE2 -->
@@ -45,7 +45,7 @@
             <br>
 
           </td>
-          <td>Meditation</td>
+          <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
         </tr>
 
         <!-- Zeile3 -->
@@ -59,11 +59,11 @@
             </ul>
           </td>
           <td class="text-center">
-            Walken – 30 min (kontinuierlich)<br>
-            <q-img src="icon_intensity.png" style="height:100%; width:200px" />
+            Walken – 30 min (kontinuierlich)<br>Inensitätszone 2<br>
+            <q-img src="icon_train_cont_short.JPG" style="height:100%; width:200px" />
 
           </td>
-          <td>Meditation</td>
+          <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
         </tr>
 
         <!-- Zeile4 -->
@@ -80,7 +80,7 @@
             <br>
             
           </td>
-          <td>Meditation</td>
+         <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
         </tr>
 
         <!-- Zeile5 -->
@@ -94,11 +94,11 @@
             </ul>
           </td>
           <td class="text-center">
-            Walken – 30 min (kontinuierlich)<br>
-            <q-img src="icon_intensity.png" style="height:100%; width:200px" />
+            Walken – 30 min (kontinuierlich)<br>Inensitätszone 2<br>
+            <q-img src="icon_train_cont_short.JPG" style="height:100%; width:200px" />
 
           </td>
-          <td>Meditation</td>
+          <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
         </tr>
 
         <!-- Zeile6 -->
@@ -114,7 +114,7 @@
             
 
           </td>
-          <td>Meditation</td>
+          <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
         </tr>
 
         <!-- Zeile7 -->
@@ -130,7 +130,7 @@
             
 
           </td>
-          <td>Meditation</td>
+          <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
         </tr>
 
 

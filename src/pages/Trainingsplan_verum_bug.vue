@@ -16,11 +16,10 @@
           </q-card-section>
 
           <q-card-section>
-            Hier sehen Sie, welche Übungseinheiten heute bei Ihnen anstehen. Falls Sie nähere Informationen oder Erkärungen zu den einzelnen Einheiten benötigen, klicken Sie "Anleitungen und Videos" auf der Startseite. Dort finden Sie genaue Erklärungen zur richtigen Ausführung sowie Tipps zu den einzelnen Einheiten.  
-            <br>Haben Sie alle Übungen an einem Tag erledigt können Sie diesen Tag an der Seite abhaken!
+            Hier sehen Sie, welche Übungseinheiten heute bei Ihnen anstehen. Falls Sie nähere Informationen oder Erkärungen zu den einzelnen Einheiten benötigen, klicken Sie "Anleitungen und Videos" auf der Startseite. Dort finden Sie genaue Erklärungen zur richtigen Ausführung sowie Tipps zu den einzelnen Einheiten.
           </q-card-section>
         </q-card>
-    
+
      </div>
 
 
@@ -59,15 +58,13 @@ export default {
   
   data () {
     return {
-      TEXT: this.$store.state.TEXT,
-      current: 1
+      TEXT: this.$store.state.TEXT
     }
   },
-  
   mounted() {
     if (this.$store.state.access_group !== 'verum') this.$router.push({name: 'start'})
   },
-  
+
   components: {
     BACKBUTTON: () => import('src/components/BackButton'),
     TRAININGS_TABLE_1: () => import('src/components/Trainingsplan_verum_table_1.vue'),
@@ -77,7 +74,7 @@ export default {
     TRAININGS_TABLE_5: () => import('src/components/Trainingsplan_verum_table_5.vue'),
     TRAININGS_TABLE_6: () => import('src/components/Trainingsplan_verum_table_6.vue'),
     TRAININGS_TABLE_7: () => import('src/components/Trainingsplan_verum_table_7.vue'),
-    TRAININGS_TABLE_8: () => import('src/components/Trainingsplan_verum_table_8.vue')
+    TRAININGS_TABLE_8: () => import('src/components/Trainingsplan_verum_table_8.vue')   
   }
 
 }

@@ -12,7 +12,9 @@
           </q-card-section>
          
           <q-card-section>
-           Um die Übungen beim Yoga korrekt auszuführen, sehen Sie sich bitte die hier aufgelisteten Videos zur richtigen Durchführung an. Am besten lassen Sie das Video auf Ihrem PC oder Fernseher abspielen und machen parallel mit. 
+           Um die Übungen beim Yoga korrekt auszuführen, achten Sie bitte genau auf die Anweisungen in der Audioanleitung. Am besten führen Sie die Übungen auf einer
+           Sportmatte o.Ä. aus. Achten Sie auch stets darauf die Bewegungen bewusst und kontrolliert auszuführen. Sofern Sie weitere Fragen zur richtigen Ausführung haben, können Sie uns gerne unter simon.schrenk@med.uni-jena.de per Mail oder unter der
+           03641/9396666 telefonisch kontaktieren. 
           </q-card-section>
         </q-card>
     

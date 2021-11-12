@@ -23,7 +23,7 @@
             </ul>
           </td>
           <td class="text-center">
-            <li><a href="#/anleitungen_b">Progressive Muskelrelaxation 2</a></li>
+            <a href="https://soundcloud.com/user-748448459/pmr-2/s-zPXrnvLrz93?si=298bd753626b4719a2c7d55c089643e3">Progressive Muskelrelaxation 2</a>
 
           </td>
           <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
@@ -55,7 +55,7 @@
             </ul>
           </td>
           <td class="text-center">
-            <li><a href="#/anleitungen_b">Progressive Muskelrelaxation 2</a></li>
+            <a href="https://soundcloud.com/user-748448459/pmr-2/s-zPXrnvLrz93?si=298bd753626b4719a2c7d55c089643e3">Progressive Muskelrelaxation 2</a>
 
           </td>
           <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
@@ -87,7 +87,7 @@
             </ul>
           </td>
           <td class="text-center">
-            <li><a href="#/anleitungen_b">Progressive Muskelrelaxation 2</a></li>
+            <a href="https://soundcloud.com/user-748448459/pmr-2/s-zPXrnvLrz93?si=298bd753626b4719a2c7d55c089643e3">Progressive Muskelrelaxation 2</a>
 
           </td>
           <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>

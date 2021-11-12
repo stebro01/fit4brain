@@ -11,12 +11,12 @@
             <q-img src="btn_instructions.jpg" style="height:100%; width:100%" />
           </q-card-section>
           <q-card-section class="text-h2">
-            Anleitungen und Videos
+            Anleitungen
           </q-card-section>
 
           <q-card-section>
-            Hier finden Sie Anleitungen und Tipps zu den einzelnen Einheiten auf Ihrem Übungsplan. Denken Sie daran, dass die richtige Ausführung der Übungen sehr wichtig ist, damit diese auch Erfolge zeigen!
-            <br>Klicken Sie einfach auf eine der Schaltflächen, um nähere Informationen zu erhalten. Viel Spaß bei der Durchführung!
+            Hier finden Sie Anleitungen und Tipps zu den einzelnen Einheiten auf Ihrem Übungsplan. Denken Sie daran, dass die richtige Ausführung der Übungen sehr wichtig ist, 
+            damit diese auch Erfolge zeigen! <br>Klicken Sie einfach auf eine der Schaltflächen, um nähere Informationen zu erhalten. Viel Spaß bei der Durchführung!
           </q-card-section>
         </q-card>
     

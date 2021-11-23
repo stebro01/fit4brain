@@ -16,8 +16,7 @@
           </q-card-section>
 
           <q-card-section>
-            Hier sehen Sie, welche Übungseinheiten heute bei Ihnen anstehen. Falls Sie nähere Informationen oder Erkärungen zu den einzelnen Einheiten benötigen, klicken Sie "Anleitungen und Videos" auf der Startseite. Dort finden Sie genaue Erklärungen zur richtigen Ausführung sowie Tipps zu den einzelnen Einheiten.  
-            <br>Haben Sie alle Übungen an einem Tag erledigt können Sie diesen Tag an der Seite abhaken!
+            Hier sehen Sie, welche Übungseinheiten heute bei Ihnen anstehen. Falls Sie nähere Informationen oder Erkärungen zu den einzelnen Einheiten benötigen, klicken Sie "Anleitungen" auf der Startseite. Dort finden Sie genaue Erklärungen zur richtigen Ausführung sowie Tipps zu den einzelnen Einheiten.
           </q-card-section>
         </q-card>
     

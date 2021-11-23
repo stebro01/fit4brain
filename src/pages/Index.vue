@@ -10,12 +10,12 @@
       <div class="col-1">
         <q-card flat class="my-card">
           <q-card-section class="text-h1">
-            Herzlich willkommen auf der offiziellen Fit4Brain Website
+            Herzlich willkommen auf der offiziellen Fit4Brain Website!
           </q-card-section>
           <q-card-section>
-            Hier finden Sie Ihren persönlichen Übungsplan, Video- und Infomaterial zu den Einheiten sowie Informationen zu der Studie. 
-            Sollten Sie noch weitere Fragen haben, klicken Sie auf "Fragen und Kontakt", wo Sie Antworten auf viele Fragen finden.
-            Und jetzt viel Spaß beim fit werden! 
+            Hier finden Sie Ihren persönlichen Übungsplan sowie Anleitungen und Infos zu den einzelen Übungseinheiten. 
+            Sollten Sie Fragen haben, klicken Sie auf "Fragen und Kontakt", wo Sie Antworten auf häufig gestellete Fragen finden.
+            Und nun viel Spaß bei der Intervention!
           </q-card-section>
         </q-card>
         

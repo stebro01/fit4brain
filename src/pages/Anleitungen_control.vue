@@ -30,8 +30,8 @@
     <div class="col-7">
       <q-card flat class="my-card">
        <q-card-section>
-            Suchen Sie sich für die Muskelentspannungs-Einheit einen Ort, an dem Sie in Ruhe sitzen oder liegen können. Sie sollten
-            ca. 30-45 Minuten in dieser Position verbleiben können. Starten Sie die Einheit, indem Sie auf den Link in Ihrem Übungsplan klicken.
+            Suchen Sie sich für die Muskelentspannungs-Einheit einen Ort, an dem Sie in Ruhe sitzen oder liegen können. Sie sollten je nach Einheit
+            ca. 25-40 Minuten in dieser Position verbleiben können. Starten Sie die Einheit, indem Sie auf den Link in Ihrem Übungsplan klicken.
             Hier werden SIe durch die Entspannung geführt und es wird Ihnen erklärt, was Sie tun sollen. Sollten Sie dennoch Fragen haben,
             erreichen Sie uns unter dieser E-Mail: marco.herbsleb@uni-jena.de
             </q-card-section>

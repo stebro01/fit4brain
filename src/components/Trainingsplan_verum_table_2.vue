@@ -18,7 +18,7 @@
           <td>Montag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
               <li><a href="https://ntc-go.nike.com/f/WNa1hXQ0">Yoga</a></li>
               <li><a href="#/anleitung_jonglieren">Jonglieren (1 oder 2 Bälle)</a></li>
             </ul>
@@ -36,7 +36,7 @@
           <td>Dienstag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
               <li><a href="https://ntc-go.nike.com/f/WNa1hXQ0">Yoga</a></li>
               <li><a href="#/anleitung_jonglieren">Jonglieren (1 oder 2 Bälle)</a></li>
             </ul>
@@ -53,7 +53,7 @@
           <td>Mittwoch</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
               <li><a href="https://ntc-go.nike.com/f/WNa1hXQ0">Yoga</a></li>
               <li><a href="#/anleitung_jonglieren">Jonglieren (1 oder 2 Bälle)</a></li>
             </ul>
@@ -71,7 +71,7 @@
           <td>Donnerstag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
               <li><a href="https://ntc-go.nike.com/f/WNa1hXQ0">Yoga</a></li>
               <li><a href="#/anleitung_jonglieren">Jonglieren (1 oder 2 Bälle)</a></li>
             </ul>
@@ -88,7 +88,7 @@
           <td>Freitag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
               <li><a href="https://ntc-go.nike.com/f/WNa1hXQ0">Yoga</a></li>
               <li><a href="#/anleitung_jonglieren">Jonglieren (1 oder 2 Bälle)</a></li>
             </ul>
@@ -106,7 +106,7 @@
           <td>Samstag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
             </ul>
           </td>
           <td class="text-center">
@@ -122,7 +122,7 @@
           <td>Sonntag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_woechentlich/" target="_blank">Fragebogen</a></li>
             </ul>
           </td>
           <td class="text-center">

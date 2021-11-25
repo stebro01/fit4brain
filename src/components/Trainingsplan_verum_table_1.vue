@@ -19,7 +19,7 @@
           <td>
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
-              <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
+              <li><a href="https://ntc-go.nike.com/f/WNa1hXQ0">Yoga</a></li>
               <li><a href="#/anleitung_jonglieren">Jonglieren (1 Ball)</a></li>
             </ul>
           </td>
@@ -37,7 +37,7 @@
           <td>
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
-              <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
+              <li><a href="https://ntc-go.nike.com/f/WNa1hXQ0">Yoga</a></li>
               <li><a href="#/anleitung_jonglieren">Jonglieren (1 Ball)</a></li>
             </ul>
           </td>
@@ -54,7 +54,7 @@
           <td>
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
-              <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
+              <li><a href="https://ntc-go.nike.com/f/WNa1hXQ0">Yoga</a></li>
               <li><a href="#/anleitung_jonglieren">Jonglieren (1 Ball)</a></li>
             </ul>
           </td>
@@ -72,7 +72,7 @@
           <td>
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
-              <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
+              <li><a href="https://ntc-go.nike.com/f/WNa1hXQ0">Yoga</a></li>
               <li><a href="#/anleitung_jonglieren">Jonglieren (1 Ball)</a></li>
             </ul>
           </td>
@@ -89,7 +89,7 @@
           <td>
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
-              <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
+              <li><a href="https://ntc-go.nike.com/f/WNa1hXQ0">Yoga</a></li>
               <li><a href="#/anleitung_jonglieren">Jonglieren (1 Ball)</a></li>
             </ul>
           </td>

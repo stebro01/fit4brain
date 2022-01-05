@@ -18,13 +18,13 @@
           <td>Montag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen, 10 min</a></li>
               <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
               <li><a href="#/anleitung_jonglieren">Jonglieren (2 Bälle)</a></li>
             </ul>
           </td>
           <td class="text-center">
-            Walken – 40 min (kontinuierlich)<br>Inensitätszone 2<br>
+            <a href="#/anleitung_aerob">Walken – 40 min (kontinuierlich)<br>Inensitätszone 2<br></a>
             <q-img src="icon_train_cont_long.jpg" style="height:100%; width:200px" />
 
           </td>
@@ -36,7 +36,7 @@
           <td>Dienstag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen, 10 min</a></li>
               <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
               <li><a href="#/anleitung_jonglieren">Jonglieren (2 Bälle)</a></li>
             </ul>
@@ -53,13 +53,13 @@
           <td>Mittwoch</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen, 10 min</a></li>
               <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
               <li><a href="#/anleitung_jonglieren">Jonglieren (2 Bälle)</a></li>
             </ul>
           </td>
           <td class="text-center">
-            Walken – 35 min (Intervall)<br>Inensitätszonen 1 +3<br>
+            <a href="#/anleitung_aerob">Walken – 35 min (Intervall)<br>Inensitätszonen 1+3<br></a>
             <q-img src="icon_train_interv_3.JPG" style="height:100%; width:200px" />
 
           </td>
@@ -71,7 +71,7 @@
           <td>Donnerstag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen, 10 min</a></li>
               <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
               <li><a href="#/anleitung_jonglieren">Jonglieren (2 Bälle)</a></li>
             </ul>
@@ -88,13 +88,13 @@
           <td>Freitag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen, 10 min</a></li>
               <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
               <li><a href="#/anleitung_jonglieren">Jonglieren (2 Bälle)</a></li>
             </ul>
           </td>
           <td class="text-center">
-            Walken – 30 min (kontinuierlich)<br>Inensitätszone 2<br>
+            <a href="#/anleitung_aerob">Walken – 30 min (kontinuierlich)<br>Inensitätszone 2<br></a>
             <q-img src="icon_train_cont_short.JPG" style="height:100%; width:200px" />
 
           </td>
@@ -106,11 +106,11 @@
           <td>Samstag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen, 10 min</a></li>
             </ul>
           </td>
           <td class="text-center">
-             Walken – 35 min (Intervall)<br>Inensitätszonen 1 + 3<br>
+             <a href="#/anleitung_aerob">Walken – 35 min (Intervall)<br>Inensitätszonen 1+3<br></a>
             <q-img src="icon_train_interv_3.JPG" style="height:100%; width:200px" />
             
 
@@ -123,7 +123,7 @@
           <td>Sonntag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_woechentlich/" target="_blank">Fragebogen, 10 min</a></li>
             </ul>
           </td>
           <td class="text-center">

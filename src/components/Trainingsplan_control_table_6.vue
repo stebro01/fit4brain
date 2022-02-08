@@ -19,7 +19,7 @@
           <td>
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
-              <li><a href="#/anleitungen_b">Podcast Kapitel 6.1</a></li>
+              <li><a href="https://soundcloud.com/user465442959/podcast-wetter-und-schlaganfall-teil-1/s-Iga6aPvHXp7?si=27d03c8ede9842ac8746eaa8ace5b118&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 6.1</a></li>
             </ul>
           </td>
           <td class="text-center">
@@ -35,7 +35,7 @@
           <td>
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
-              <li><a href="#/anleitungen_b">Podcast Kapitel 6.2</a></li>
+              <li><a href="https://soundcloud.com/user465442959/podcast-wetter-und-schlaganfall-teil-2/s-06qxx14pg66?si=ce23f28c3b3e4b6998f6dd390001e826&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 6.2</a></li>
             </ul>
           </td>
           <td class="text-center">

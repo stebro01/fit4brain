@@ -19,7 +19,7 @@
           <td>
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
-              <li><a href="#/anleitungen_b">Podcast Kapitel 2.1</a></li>
+              <li><a href="https://soundcloud.com/user465442959/podcast-stress-1/s-vUeRy6cjAEx?si=4f15d6cdbecc4460ac287f56ce4cbc77&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 2.1</a></li>
             </ul>
           </td>
           <td class="text-center">
@@ -35,7 +35,7 @@
           <td>
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
-              <li><a href="#/anleitungen_b">Podcast Kapitel 2.2</a></li>
+              <li><a href="https://soundcloud.com/user465442959/podcast-stress-2/s-t9ut4aoHEzP?si=2301f0b2e4eb454e9b67c67c39e4a1c4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 2.2</a></li>
             </ul>
           </td>
           <td class="text-center">
@@ -51,7 +51,7 @@
           <td>
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
-              <li><a href="#/anleitungen_b">Podcast Kapitel 2.3</a></li>
+              <li><a href="https://soundcloud.com/user465442959/podcastschlaf1/s-kLYJR8yfqbR?si=c8dfbf908dd44edca856eac9e175c03f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 2.3</a></li>
             </ul>
           </td>
           <td class="text-center">
@@ -67,7 +67,7 @@
           <td>
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
-              <li><a href="#/anleitungen_b">Podcast Kapitel 2.4</a></li>
+              <li><a href="https://soundcloud.com/user465442959/podcastschlaf2/s-VubmT7xPacT?si=8767bc1e7623455ba6ddf5f8377ab45e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 2.4</a></li>
             </ul>
           </td>
           <td class="text-center">

@@ -19,7 +19,7 @@
           <td>
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
-              <li><a href="#/anleitungen_b">Podcast Kapitel 3.1</a></li>
+              <li><a href="https://soundcloud.com/user-748448459/parkinson-teil-1/s-Fthzi8JtRDH?si=9f91b7243d7d49c69a83d07f6e2ba222&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 3.1</a></li>
             </ul>
           </td>
           <td class="text-center">
@@ -35,7 +35,7 @@
           <td>
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
-              <li><a href="#/anleitungen_b">Podcast Kapitel 3.2</a></li>
+              <li><a href="https://soundcloud.com/user-748448459/parkinson-teil-2/s-X9wKvI1UtFb?si=e72e606a819441829ebff2326aa52eab&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 3.2</a></li>
             </ul>
           </td>
           <td class="text-center">
@@ -51,7 +51,7 @@
           <td>
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
-              <li><a href="#/anleitungen_b">Podcast Kapitel 3.3</a></li>
+              <li><a href="https://soundcloud.com/user-748448459/mrt-teil-1/s-g65DFSrCgvp?si=22dfede1520c4b6b953b20b3f40742a6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 3.3</a></li>
             </ul>
           </td>
           <td class="text-center">
@@ -67,7 +67,7 @@
           <td>
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
-              <li><a href="#/anleitungen_b">Podcast Kapitel 3.4</a></li>
+              <li><a href="https://soundcloud.com/user-748448459/mrtteil2/s-V5OuLP8s779?si=412f64517cfe446e9c4533e3b0b71acb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 3.4</a></li>
             </ul>
           </td>
           <td class="text-center">

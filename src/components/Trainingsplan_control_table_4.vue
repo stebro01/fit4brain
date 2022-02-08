@@ -19,7 +19,7 @@
           <td>
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
-              <li><a href="#/anleitungen_b">Podcast Kapitel 4.1</a></li>
+              <li><a href="https://soundcloud.com/user465442959/podcast-korperliche-fitness-1/s-Ep2WreaQWI6?si=98bf7f607691433180a33b32d41c921e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 4.1</a></li>
             </ul>
           </td>
           <td class="text-center">
@@ -35,7 +35,7 @@
           <td>
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
-              <li><a href="#/anleitungen_b">Podcast Kapitel 4.2</a></li>
+              <li><a href="https://soundcloud.com/user465442959/podcast-physiologie-teil-2/s-gGqK7gEyCw4?si=4a9c784883094e2ca04a498c4a035ffc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 4.2</a></li>
             </ul>
           </td>
           <td class="text-center">
@@ -51,7 +51,7 @@
           <td>
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
-              <li><a href="#/anleitungen_b">Podcast Kapitel 4.3</a></li>
+              <li><a href="https://soundcloud.com/user465442959/podcast-mh-teil-3/s-p9jKVVKO4mC?si=39b698077f4a44e59b37847ea2746a65&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 4.3</a></li>
             </ul>
           </td>
           <td class="text-center">
@@ -67,7 +67,7 @@
           <td>
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
-              <li><a href="#/anleitungen_b">Podcast Kapitel 4.4</a></li>
+              <li><a href="https://soundcloud.com/user465442959/podcastphysiologieteil4/s-HDnNOSRCoQq?si=fd9588c66cdc4afd8447242cfec82c71&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 4.4</a></li>
             </ul>
           </td>
           <td class="text-center">
@@ -83,7 +83,7 @@
           <td>
             <ul class="text-left">
               <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
-              <li><a href="#/anleitungen_b">Podcast Kapitel 4.5</a></li>
+              <li><a href="https://soundcloud.com/user465442959/podcast-physiologie-teil-5/s-ZFJQmmcAQhn?si=529e94c539934804958d517081ce874b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 4.5</a></li>
             </ul>
           </td>
           <td class="text-center">

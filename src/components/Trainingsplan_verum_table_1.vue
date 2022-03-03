@@ -19,7 +19,7 @@
           <td>
             <ul class="text-left">
               <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen, 10 min</a></li>
-              <li><a href="https://ntc-go.nike.com/f/WNa1hXQ0">Yoga, 8 min</a></li>
+              <li><a href="https://youtu.be/w3ENP_qPOGQ">Yoga, 8 min</a></li>
               <li><a href="#/anleitung_jonglieren">Jonglieren (1 Ball), 5 min</a></li>
             </ul>
           </td>
@@ -37,7 +37,7 @@
           <td>
             <ul class="text-left">
               <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen, 10 min</a></li>
-              <li><a href="https://ntc-go.nike.com/f/WNa1hXQ0">Yoga, 8 min</a></li>
+              <li><a href="https://youtu.be/w3ENP_qPOGQ">Yoga, 8 min</a></li>
               <li><a href="#/anleitung_jonglieren">Jonglieren (1 Ball), 5 min</a></li>
             </ul>
           </td>
@@ -54,7 +54,7 @@
           <td>
             <ul class="text-left">
               <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen, 10 min</a></li>
-              <li><a href="https://ntc-go.nike.com/f/WNa1hXQ0">Yoga, 8 min</a></li>
+              <li><a href="https://youtu.be/w3ENP_qPOGQ">Yoga, 8 min</a></li>
               <li><a href="#/anleitung_jonglieren">Jonglieren (1 Ball), 5 min</a></li>
             </ul>
           </td>
@@ -72,7 +72,7 @@
           <td>
             <ul class="text-left">
               <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen, 10 min</a></li>
-              <li><a href="https://ntc-go.nike.com/f/WNa1hXQ0">Yoga, 8 min</a></li>
+              <li><a href="https://youtu.be/w3ENP_qPOGQ">Yoga, 8 min</a></li>
               <li><a href="#/anleitung_jonglieren">Jonglieren (1 Ball), 5 min</a></li>
             </ul>
           </td>
@@ -89,7 +89,7 @@
           <td>
             <ul class="text-left">
               <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen, 10 min</a></li>
-              <li><a href="https://ntc-go.nike.com/f/WNa1hXQ0">Yoga, 8 min</a></li>
+              <li><a href="https://youtu.be/w3ENP_qPOGQ">Yoga, 8 min</a></li>
               <li><a href="#/anleitung_jonglieren">Jonglieren (1 Ball), 5 min</a></li>
             </ul>
           </td>

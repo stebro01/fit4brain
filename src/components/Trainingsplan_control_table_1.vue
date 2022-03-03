@@ -18,7 +18,7 @@
           <td>Montag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
               <li><a href="https://soundcloud.com/user-748448459/podcast-woche-1-teil-1/s-cQHkJnjDzls?si=e0117cd95f514445ac82ec80dbc02ac5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 1.1</a></li>
             </ul>
           </td>
@@ -34,7 +34,7 @@
           <td>Dienstag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
               <li><a href="https://soundcloud.com/user-748448459/podcastkognitionteil2/s-i7S8MKx0psK?si=0fa1605ca2f94d2999208ffa21687c4e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 1.2</a></li>
             </ul>
           </td>
@@ -50,7 +50,7 @@
           <td>Mittwoch</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
               <li><a href="https://soundcloud.com/user-748448459/podcast-kognition-teil-3/s-20htX8IQeFd?si=6445ebad7419488ba5b645476269ddd4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 1.3</a></li>
             </ul>
           </td>
@@ -66,7 +66,7 @@
           <td>Donnerstag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
               <li><a href="https://soundcloud.com/user-748448459/podcast-kognition-teil-4/s-n7G43jUXItW?si=307024d6f69d4bf5b55cc3e07268fa53&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 1.4</a></li>
             </ul>
           </td>
@@ -82,7 +82,7 @@
           <td>Freitag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
               <li><a href="https://soundcloud.com/user-748448459/podcast-kf-kognition/s-9sltWJ2HKC8?si=0c73f55899db4b0fa4e1e3cd7553edb7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 1.5</a></li>
             </ul>
           </td>
@@ -98,7 +98,7 @@
           <td>Samstag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
             </ul>
           </td>
           <td class="text-center">
@@ -114,7 +114,7 @@
           <td>Sonntag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_woechentlich/" target="_blank">Fragebogen</a></li>
             </ul>
           </td>
           <td class="text-center">

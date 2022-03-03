@@ -18,7 +18,7 @@
           <td>Montag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
               <li><a href="#/anleitungen_b">Podcast Kapitel 7.1</a></li>
             </ul>
           </td>
@@ -34,7 +34,7 @@
           <td>Dienstag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
               <li><a href="#/anleitungen_b">Podcast Kapitel 7.2</a></li>
             </ul>
           </td>
@@ -50,7 +50,7 @@
           <td>Mittwoch</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
               <li><a href="#/anleitungen_b">Podcast Kapitel 7.3</a></li>
             </ul>
           </td>
@@ -66,7 +66,7 @@
           <td>Donnerstag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
               <li><a href="#/anleitungen_b">Podcast Kapitel 7.4</a></li>
             </ul>
           </td>
@@ -82,7 +82,7 @@
           <td>Freitag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
               <li><a href="#/anleitungen_b">Podcast Kapitel 7.5</a></li>
             </ul>
           </td>
@@ -98,7 +98,7 @@
           <td>Samstag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
             </ul>
           </td>
           <td class="text-center">
@@ -114,7 +114,7 @@
           <td>Sonntag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_woechentlich/" target="_blank">Fragebogen</a></li>
             </ul>
           </td>
           <td class="text-center">

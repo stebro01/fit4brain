@@ -19,7 +19,7 @@
           <td>
             <ul class="text-left">
               <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen, 10 min</a></li>
-              <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
+              <li><a href="https://youtu.be/8xptC6lc8e8">Yoga</a></li>
               <li><a href="#/anleitung_jonglieren">Jonglieren (2 oder 3 Bälle)</a></li>
             </ul>
           </td>
@@ -37,7 +37,7 @@
           <td>
             <ul class="text-left">
               <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen, 10 min</a></li>
-              <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
+              <li><a href="https://youtu.be/8xptC6lc8e8">Yoga</a></li>
               <li><a href="#/anleitung_jonglieren">Jonglieren (2 oder 3 Bälle)</a></li>
             </ul>
           </td>
@@ -54,7 +54,7 @@
           <td>
             <ul class="text-left">
               <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen, 10 min</a></li>
-              <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
+              <li><a href="https://youtu.be/8xptC6lc8e8">Yoga</a></li>
               <li><a href="#/anleitung_jonglieren">Jonglieren (2 oder 3 Bälle)</a></li>
             </ul>
           </td>
@@ -72,7 +72,7 @@
           <td>
             <ul class="text-left">
               <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen, 10 min</a></li>
-              <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
+              <li><a href="https://youtu.be/8xptC6lc8e8">Yoga</a></li>
               <li><a href="#/anleitung_jonglieren">Jonglieren (2 oder 3 Bälle)</a></li>
             </ul>
           </td>
@@ -89,7 +89,7 @@
           <td>
             <ul class="text-left">
               <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen, 10 min</a></li>
-              <li><a href="https://www.youtube.com/watch?v=ykbqluwzSKg">Yoga</a></li>
+              <li><a href="https://youtu.be/8xptC6lc8e8">Yoga</a></li>
               <li><a href="#/anleitung_jonglieren">Jonglieren (2 oder 3 Bälle)</a></li>
             </ul>
           </td>

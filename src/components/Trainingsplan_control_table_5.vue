@@ -18,7 +18,7 @@
           <td>Montag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
               <li><a href="https://soundcloud.com/user465442959/podcastmikrobiom1/s-trvicA79v1i?si=9f518e79314b4f738fb23f1174100801&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 5.1</a></li>
             </ul>
           </td>
@@ -34,7 +34,7 @@
           <td>Dienstag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
               <li><a href="https://soundcloud.com/user465442959/podcastmikrobiom2/s-UbRUDq6598A?si=76327b1b780e4bd78a6381a14eed3bc1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 5.2</a></li>
             </ul>
           </td>
@@ -50,7 +50,7 @@
           <td>Mittwoch</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
               <li><a href="https://soundcloud.com/user465442959/podcastmikrobiom3/s-rsndqIkLVWz?si=77ba49c9a1a94372be4d867432b369c8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 5.3</a></li>
             </ul>
           </td>
@@ -66,7 +66,7 @@
           <td>Donnerstag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
               <li><a href="https://soundcloud.com/user465442959/podcastmikrobiom4/s-l3x89rMvSyA?si=57eae4e912da4a259fb6eaed1a80b4ef&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 5.4</a></li>
             </ul>
           </td>
@@ -82,7 +82,7 @@
           <td>Freitag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
               <li><a href="#/anleitungen_b">Podcast Kapitel 5.5</a></li>
             </ul>
           </td>
@@ -98,7 +98,7 @@
           <td>Samstag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
             </ul>
           </td>
           <td class="text-center">
@@ -114,7 +114,7 @@
           <td>Sonntag</td>
           <td>
             <ul class="text-left">
-              <li><a href="http://www.fit4brain.de" target="_blank">Fragebogen</a></li>
+              <li><a href="https://www.soscisurvey.de/Fit4Brain_woechentlich/" target="_blank">Fragebogen</a></li>
             </ul>
           </td>
           <td class="text-center">

@@ -10,7 +10,6 @@
           <th >Wochentag</th>
           <th>Vormittag</th>
           <th>Nachmittag</th>
-          <th>Abend</th>
         </tr>
 
         <!-- ZEILE1 -->
@@ -26,7 +25,7 @@
             <a href="https://soundcloud.com/user-748448459/pmr-2/s-zPXrnvLrz93?si=298bd753626b4719a2c7d55c089643e3">Progressive Muskelrelaxation 2</a>
 
           </td>
-          <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
+        
         </tr>
 
         <!-- ZEILE2 -->
@@ -42,7 +41,7 @@
             <br>
 
           </td>
-          <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
+        
         </tr>
 
         <!-- Zeile3 -->
@@ -58,7 +57,7 @@
             <a href="https://soundcloud.com/user-748448459/pmr-2/s-zPXrnvLrz93?si=298bd753626b4719a2c7d55c089643e3">Progressive Muskelrelaxation 2</a>
 
           </td>
-          <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
+        
         </tr>
 
         <!-- Zeile4 -->
@@ -74,7 +73,7 @@
             <br>
             
           </td>
-         <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
+        
         </tr>
 
         <!-- Zeile5 -->
@@ -83,14 +82,14 @@
           <td>
             <ul class="text-left">
               <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
-              <li><a href="#/anleitungen_b">Podcast Kapitel 2.5</a></li>
+              <li><a href="https://soundcloud.com/user465442959/podcast-arbeit-im-gedachtniszentrum-wahrend-der-pandemie/s-uDrJ0G6xfnP?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 2.5</a></li>
             </ul>
           </td>
           <td class="text-center">
             <a href="https://soundcloud.com/user-748448459/pmr-2/s-zPXrnvLrz93?si=298bd753626b4719a2c7d55c089643e3">Progressive Muskelrelaxation 2</a>
 
           </td>
-          <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
+        
         </tr>
 
         <!-- Zeile6 -->
@@ -106,7 +105,7 @@
             
 
           </td>
-          <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
+        
         </tr>
 
         <!-- Zeile7 -->
@@ -122,7 +121,7 @@
             
 
           </td>
-          <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
+        
         </tr>
 
 

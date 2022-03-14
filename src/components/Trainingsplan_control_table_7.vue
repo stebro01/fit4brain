@@ -10,7 +10,7 @@
           <th >Wochentag</th>
           <th>Vormittag</th>
           <th>Nachmittag</th>
-          <th>Abend</th>
+
         </tr>
 
         <!-- ZEILE1 -->
@@ -19,14 +19,14 @@
           <td>
             <ul class="text-left">
               <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
-              <li><a href="#/anleitungen_b">Podcast Kapitel 7.1</a></li>
+              <li><a href="https://soundcloud.com/user465442959/geschichte-der-bildgebung-teil-1/s-YNnF36jm0ra?si=4d28a05ba2c147dcb0d62e3d27123d66&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 7.1</a></li>
             </ul>
           </td>
           <td class="text-center">
             <a href="https://soundcloud.com/user-748448459/pmr-1/s-Nmr3YmN1eli?si=b8ccc219edc54572b6ebd45d8a111246">Progressive Muskelrelaxation 1</a>
 
           </td>
-          <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
+        
         </tr>
 
         <!-- ZEILE2 -->
@@ -35,14 +35,14 @@
           <td>
             <ul class="text-left">
               <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
-              <li><a href="#/anleitungen_b">Podcast Kapitel 7.2</a></li>
+              <li><a href="https://soundcloud.com/user465442959/geschichtebildgebungteil2/s-qAxmlcIeumC?si=b14100e5e0264fdf881b0acda954b439&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 7.2</a></li>
             </ul>
           </td>
           <td class="text-center">
             <br>
 
           </td>
-          <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
+        
         </tr>
 
         <!-- Zeile3 -->
@@ -51,14 +51,14 @@
           <td>
             <ul class="text-left">
               <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
-              <li><a href="#/anleitungen_b">Podcast Kapitel 7.3</a></li>
+              <li><a href="https://soundcloud.com/user465442959/brainage-teil1/s-yctVSkEoV3J?si=bbde0b0b31a2406f9c79770e18fefc14&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 7.3</a></li>
             </ul>
           </td>
           <td class="text-center">
             <a href="https://soundcloud.com/user-748448459/pmr-1/s-Nmr3YmN1eli?si=b8ccc219edc54572b6ebd45d8a111246">Progressive Muskelrelaxation 1</a>
 
           </td>
-          <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
+        
         </tr>
 
         <!-- Zeile4 -->
@@ -67,14 +67,14 @@
           <td>
             <ul class="text-left">
               <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
-              <li><a href="#/anleitungen_b">Podcast Kapitel 7.4</a></li>
+              <li><a href="https://soundcloud.com/user465442959/brainage-teil2/s-6IciwF5Tgpk?si=672c8edd40284ba9890fe0a8b3a8e2fd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 7.4</a></li>
             </ul>
           </td>
           <td class="text-center">
             <br>
             
           </td>
-         <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
+        
         </tr>
 
         <!-- Zeile5 -->
@@ -90,7 +90,7 @@
             <a href="https://soundcloud.com/user-748448459/pmr-1/s-Nmr3YmN1eli?si=b8ccc219edc54572b6ebd45d8a111246">Progressive Muskelrelaxation 1</a>
 
           </td>
-          <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
+        
         </tr>
 
         <!-- Zeile6 -->
@@ -106,7 +106,7 @@
             
 
           </td>
-          <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
+        
         </tr>
 
         <!-- Zeile7 -->
@@ -122,7 +122,7 @@
             
 
           </td>
-          <td><a href="https://soundcloud.com/user465442959/2minutenmeditation/s-jk4vgIIQMze" target="_blank">Meditation</a></td>
+        
         </tr>
 
 

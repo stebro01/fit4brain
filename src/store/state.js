@@ -6,6 +6,10 @@ export default function () {
     access_allowed: false,
     access_group: undefined,
     type_access: null,
-    next_route : null
+    next_route : null,
+    PW: {
+      verum: 'start',
+      control: 'los'
+    }
   }
 }

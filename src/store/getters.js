@@ -1,4 +1,4 @@
-// export function ACTIVE_QUEST_LABEL(state) {
-//   return state.QuestMan.activeQuest.label
-// }
+export function PW(state) {
+  return state.PW
+}
 

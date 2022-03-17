@@ -5,7 +5,7 @@
 
     <div class="column items-center q-px-xl">
       <div class="col-7">
-
+        <q-form @submit="loginFunc()">
         <q-card flat class="my-card">
           <q-card-section class="text-h1">
             Login
@@ -22,6 +22,7 @@
             <q-banner inline-actions class="text-white bg-red text-center"> Code nicht erkannt </q-banner> 
           </q-card-section>
         </q-card>
+        </q-form>
     
      </div>
 
@@ -42,8 +43,8 @@ export default {
       TEXT: this.$store.state.TEXT,
       passphrase: null,
       code_false: false,
-      pw_verum: process.env.APP_PW_verum,
-      pw_control: process.env.APP_PW_control,
+      pw_verum: this.$store.getters.PW.verum,
+      pw_control: this.$store.getters.PW.control,
     }
   },
   mounted() {

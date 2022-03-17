@@ -40,7 +40,7 @@
 
           <!-- ABOUT -->
           <q-card class="my-card" flat @click="$router.push({name: 'about'}).catch(() => {})">
-            <q-img src="btn_about.jpg" style="height:100%; width:100%">
+            <q-img src="btn_about.png" style="height:100%; width:100%">
             </q-img>
           </q-card>
 

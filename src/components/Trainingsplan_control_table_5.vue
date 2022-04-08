@@ -23,7 +23,7 @@
             </ul>
           </td>
           <td class="text-center">
-            <a href="https://soundcloud.com/user-748448459/pmr-1/s-Nmr3YmN1eli?si=b8ccc219edc54572b6ebd45d8a111246">Progressive Muskelrelaxation 1</a>
+            <a href="https://soundcloud.com/user465442959/progressive-muskelrelaxation-3/s-QjYWWr6lrOJ?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Progressive Muskelrelaxation 3</a>
 
           </td>
         
@@ -55,7 +55,7 @@
             </ul>
           </td>
           <td class="text-center">
-            <a href="https://soundcloud.com/user-748448459/pmr-1/s-Nmr3YmN1eli?si=b8ccc219edc54572b6ebd45d8a111246">Progressive Muskelrelaxation 1</a>
+            <a href="https://soundcloud.com/user465442959/progressive-muskelrelaxation-3/s-QjYWWr6lrOJ?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Progressive Muskelrelaxation 3</a>
 
           </td>
         
@@ -87,7 +87,7 @@
             </ul>
           </td>
           <td class="text-center">
-            <a href="https://soundcloud.com/user-748448459/pmr-1/s-Nmr3YmN1eli?si=b8ccc219edc54572b6ebd45d8a111246">Progressive Muskelrelaxation 1</a>
+            <a href="https://soundcloud.com/user465442959/progressive-muskelrelaxation-3/s-QjYWWr6lrOJ?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Progressive Muskelrelaxation 3</a>
 
           </td>
         
@@ -102,7 +102,7 @@
             </ul>
           </td>
           <td class="text-center">
-            <a href="https://soundcloud.com/user-748448459/pmr-1/s-Nmr3YmN1eli?si=b8ccc219edc54572b6ebd45d8a111246">Progressive Muskelrelaxation 1</a>
+            <a href="https://soundcloud.com/user465442959/progressive-muskelrelaxation-3/s-QjYWWr6lrOJ?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Progressive Muskelrelaxation 3</a>
             
 
           </td>

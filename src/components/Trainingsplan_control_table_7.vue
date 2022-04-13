@@ -19,7 +19,7 @@
           <td>
             <ul class="text-left">
               <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
-              <li><a href="https://soundcloud.com/user465442959/geschichte-der-bildgebung-teil-1/s-YNnF36jm0ra?si=4d28a05ba2c147dcb0d62e3d27123d66&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 7.1</a></li>
+              <li><a href="https://soundcloud.com/user465442959/podcast-wetter-und-schlaganfall-teil-1/s-Iga6aPvHXp7?si=27d03c8ede9842ac8746eaa8ace5b118&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 7.1</a></li>
             </ul>
           </td>
           <td class="text-center">
@@ -35,7 +35,7 @@
           <td>
             <ul class="text-left">
               <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
-              <li><a href="https://soundcloud.com/user465442959/geschichtebildgebungteil2/s-qAxmlcIeumC?si=b14100e5e0264fdf881b0acda954b439&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 7.2</a></li>
+              <li><a href="https://soundcloud.com/user465442959/podcast-wetter-und-schlaganfall-teil-2/s-06qxx14pg66?si=ce23f28c3b3e4b6998f6dd390001e826&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 7.2</a></li>
             </ul>
           </td>
           <td class="text-center">
@@ -51,7 +51,7 @@
           <td>
             <ul class="text-left">
               <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
-              <li><a href="https://soundcloud.com/user465442959/brainage-teil1/s-yctVSkEoV3J?si=bbde0b0b31a2406f9c79770e18fefc14&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 7.3</a></li>
+              <li><a href="https://soundcloud.com/user465442959/aufbau-gehirn-teil1/s-Jkt7xYpGH0T?si=4225241299ba49efa13135186658b9e6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 7.3</a></li>
             </ul>
           </td>
           <td class="text-center">
@@ -67,7 +67,7 @@
           <td>
             <ul class="text-left">
               <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
-              <li><a href="https://soundcloud.com/user465442959/brainage-teil2/s-6IciwF5Tgpk?si=672c8edd40284ba9890fe0a8b3a8e2fd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 7.4</a></li>
+              <li><a href="https://soundcloud.com/user465442959/aufbau-gehirn-teil-2/s-1F00gCJumGU?si=4e56f2074313409aa151625706dd492b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 7.4</a></li>
             </ul>
           </td>
           <td class="text-center">
@@ -83,7 +83,7 @@
           <td>
             <ul class="text-left">
               <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
-              <li><a href="#/anleitungen_b">Podcast Kapitel 7.5</a></li>
+              <li><a href="https://soundcloud.com/user465442959/aufbau-gehirn-teil3/s-q13d5Cn4Z4p?si=86fcfd51195d4de59ec28a6c9f601200&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 7.5</a></li>
             </ul>
           </td>
           <td class="text-center">

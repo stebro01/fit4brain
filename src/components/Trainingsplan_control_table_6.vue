@@ -51,7 +51,7 @@
           <td>
             <ul class="text-left">
               <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
-              <li><a href="https://soundcloud.com/user465442959/aufbau-gehirn-teil1/s-Jkt7xYpGH0T?si=4225241299ba49efa13135186658b9e6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 6.3</a></li>
+              <li><a href="https://soundcloud.com/user465442959/podcast-genetik-1/s-S6ikdtrY6db?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 6.3</a></li>
             </ul>
           </td>
           <td class="text-center">
@@ -67,7 +67,7 @@
           <td>
             <ul class="text-left">
               <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
-              <li><a href="https://soundcloud.com/user465442959/aufbau-gehirn-teil-2/s-1F00gCJumGU?si=4e56f2074313409aa151625706dd492b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 6.4</a></li>
+              <li><a href="https://soundcloud.com/user465442959/podcast-genetik-2/s-r8Um1lvuidr?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 6.4</a></li>
             </ul>
           </td>
           <td class="text-center">
@@ -83,7 +83,7 @@
           <td>
             <ul class="text-left">
               <li><a href="https://www.soscisurvey.de/Fit4Brain_taeglich/" target="_blank">Fragebogen</a></li>
-              <li><a href="https://soundcloud.com/user465442959/aufbau-gehirn-teil3/s-q13d5Cn4Z4p?si=86fcfd51195d4de59ec28a6c9f601200&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 6.5</a></li>
+              <li><a href="https://soundcloud.com/user465442959/podcast-genetik-3/s-8X1CA6hvyzs?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Podcast Kapitel 6.5</a></li>
             </ul>
           </td>
           <td class="text-center">

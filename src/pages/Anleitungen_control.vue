@@ -44,7 +44,7 @@
       <q-card flat class="my-card">
        <q-card-section>
             <b>2. Podcasts</b>
-            <br><br>Hören Sie am besten täglich ca. 15 Minuten (1 Kapitel) von einem der unten aufgeführten Podcasts. Dies können Sie 
+            <br><br>Hören Sie am besten täglich ca. 15 Minuten (1 Kapitel) von einem der im Übungsplan aufgeführten Podcasts. Dies können Sie 
             flexibel am Tag machen, wann es Ihnen gerade passt. Passen Sie gut auf und versuchen Sie keiner anderen Beschäftigung nachzugehen, 
             während Sie zuhören.
             </q-card-section>

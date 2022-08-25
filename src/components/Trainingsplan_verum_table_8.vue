@@ -24,7 +24,7 @@
             </ul>
           </td>
           <td class="text-center">
-            <a href="#/anleitung_aerob">Walken – 30 min (kontinuierlich)<br>Inensitätszone 2<br></a>
+            <a href="#/anleitung_aerob">Walken – 30 min (kontinuierlich)<br>Intensitätszone 2<br></a>
             <q-img src="icon_train_cont_short.JPG" style="height:100%; width:200px" />
 
           </td>
@@ -59,7 +59,7 @@
             </ul>
           </td>
           <td class="text-center">
-            <a href="#/anleitung_aerob">Walken – 41 min (Intervall)<br>Inensitätszonen 1+4<br></a>
+            <a href="#/anleitung_aerob">Walken – 41 min (Intervall)<br>Intensitätszonen 1+4<br></a>
             <q-img src="icon_train_interv_4_long.JPG" style="height:100%; width:200px" />
 
           </td>
@@ -94,7 +94,7 @@
             </ul>
           </td>
           <td class="text-center">
-            <a href="#/anleitung_aerob">Walken – 30 min (kontinuierlich)<br>Inensitätszone 2<br></a>
+            <a href="#/anleitung_aerob">Walken – 30 min (kontinuierlich)<br>Intensitätszone 2<br></a>
             <q-img src="icon_train_cont_short.JPG" style="height:100%; width:200px" />
 
           </td>
@@ -110,7 +110,7 @@
             </ul>
           </td>
           <td class="text-center">
-             <a href="#/anleitung_aerob">Walken – 41 min (Intervall)<br>Inensitätszonen 1+4<br></a>
+             <a href="#/anleitung_aerob">Walken – 41 min (Intervall)<br>Intensitätszonen 1+4<br></a>
             <q-img src="icon_train_interv_4_long.JPG" style="height:100%; width:200px" />
             
 

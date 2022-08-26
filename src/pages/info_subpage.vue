@@ -10,6 +10,7 @@
         <q-img src="bg_index.jpg" style="max-width: 400px"></q-img>
       </div>
 
+      <q-card>
           <q-card-section class="text-h2">
             Informationen zur Fit4Brain-Studie
           </q-card-section>
@@ -44,9 +45,14 @@
             <br><br> - Rufen Sie uns an: 03641/9396666
             <br> - Schreiben Sie uns eine Mail: simon.schrenk@med.uni-jena.de
             <br><br> Wir beantworten Ihnen gerne unverbindlich alle Fragen zur Studie und würden uns über Ihre Kontaktaufnahme sehr freuen!
-            </q-card-section>
+          </q-card-section>
 
         </q-card>
+
+
+        <div class="text-center q-pa-xl">
+          <q-img src="~assets/qr_info.png" width="400px" />
+        </div>
     
      </div>
    
